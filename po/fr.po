@@ -1,0 +1,135 @@
+# French translations for osux-visual package.
+# This file is put in the public domain.
+#  <thomas.mijieux@hotmail.fr>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osux-visual 0.1\n"
+"Report-Msgid-Bugs-To: lmaugere@ipb.fr, tmijieux@ipb.fr\n"
+"POT-Creation-Date: 2016-09-27 22:16+0200\n"
+"PO-Revision-Date: 2016-09-27 22:18+0200\n"
+"Last-Translator:  <thomas.mijieux@hotmail.fr>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/vosu/vosu-render.c:11
+msgid "This game mode is currently unsupported, sorry."
+msgstr ""
+
+#: src/vosu/vosu-app.c:62
+msgid "Replay"
+msgstr ""
+
+#: src/vosu/vosu-app.c:63
+msgid "Cannot open a replay without a beatmap!"
+msgstr ""
+
+#: src/vosu/vosu-app.c:72
+msgid "Error loading replay"
+msgstr ""
+
+#: src/vosu/vosu-app.c:82
+msgid "Replay error."
+msgstr ""
+
+#: src/vosu/vosu-app.c:83
+msgid "the replay is not for this beatmap"
+msgstr ""
+
+#: src/vosu/vosu-app.c:88
+#, c-format
+msgid "replay file set to '%s'\n"
+msgstr ""
+
+#: src/vosu/vosu-app.c:142 src/edosu/edosu-app.c:103
+msgid "Error loading beatmap"
+msgstr ""
+
+#: src/vosu/vosu-app.c:207 src/edosu/edosu-app.c:170
+msgid "Open Beatmap"
+msgstr ""
+
+#: src/vosu/vosu-app.c:208 src/edosu/edosu-app.c:171 src/edosu/edosu-app.c:224
+msgid "_Cancel"
+msgstr ""
+
+#: src/vosu/vosu-app.c:209 src/edosu/edosu-app.c:172
+msgid "_Open"
+msgstr ""
+
+#: src/edosu/edosu-win.c:114
+msgid "osux Editor"
+msgstr ""
+
+#: src/edosu/edosu-app.c:98
+msgid "cannot create beatmap"
+msgstr ""
+
+#: src/edosu/edosu-app.c:223
+msgid "Save beatmap"
+msgstr ""
+
+#: src/edosu/edosu-app.c:225
+msgid "_Save"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:24
+msgid "Circle"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:25
+msgid "Slider"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:26
+msgid "Spinner"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:27
+msgid "Hold"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:28
+msgid "Invalid type"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:53
+msgid "Inherited"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:55
+msgid "Absolute"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:122
+msgid "Bookmark"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:155
+msgid "TimingPoints"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:160
+msgid "HitObjects"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:165
+msgid "Bookmarks"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:170
+msgid "Events"
+msgstr ""
+
+#: src/edosu/edosu-beatmap-objects.c:175
+msgid "Colors"
+msgstr ""
+
+#: src/edosu/edosu-beatmap.c:20
+#, c-format
+msgid "unsaved beatmap %d"
+msgstr ""
